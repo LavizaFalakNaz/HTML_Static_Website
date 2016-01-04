@@ -1012,3 +1012,26 @@
 .u-section-6 .u-container-layout-1 {
   padding: 30px;
 }
+
+.u-section-6 .u-image-1 {
+  width: 500px;
+  height: 290px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-6 .u-image-2 {
+  width: 501px;
+  height: 301px;
+  margin: -211px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-group-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 772px;
+  }
