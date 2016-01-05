@@ -1035,3 +1035,25 @@
   .u-section-6 .u-sheet-1 {
     min-height: 772px;
   }
+
+  .u-section-6 .u-group-1 {
+    min-height: 537px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 416px;
+  }
+
+  .u-section-6 .u-image-2 {
+    width: 399px;
+    margin-top: -114px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-text-1 {
+    width: 540px;
+  }
