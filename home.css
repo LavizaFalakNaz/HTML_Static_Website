@@ -1080,3 +1080,25 @@
   .u-section-6 .u-text-2 {
     width: 340px;
   }
+
+  .u-section-6 .u-group-1 {
+    min-height: 449px;
+    margin-bottom: 34px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-image-1 {
+    height: 193px;
+    width: 277px;
+  }
+
+  .u-section-6 .u-image-2 {
+    height: 213px;
+    width: 283px;
+    margin-top: -19px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 356px;
+}
