@@ -1122,3 +1122,24 @@
 .u-section-7 .u-text-2 {
   margin: 20px 0 0;
 }
+
+.u-section-7 .u-layout-cell-2 {
+  min-height: 169px;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-7 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 272px;
+  min-width: 112px;
+  white-space: nowrap;
+  margin: 0 0 0 auto;
+}
+
+.u-section-7 .u-icon-1 {
+  height: 100%;
+}
