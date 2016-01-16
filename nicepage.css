@@ -18,3 +18,19 @@
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0; }
+
+  .fr-view img.fr-rounded, .fr-view .fr-img-caption.fr-rounded img {
+     border-radius: 10px;
+     -moz-border-radius: 10px;
+     -webkit-border-radius: 10px;
+     -moz-background-clip: padding;
+     -webkit-background-clip: padding-box;
+     background-clip: padding-box; }
+   
+   .fr-view img.fr-shadow, .fr-view .fr-img-caption.fr-shadow img {
+     -webkit-box-shadow: 10px 10px 5px 0px #cccccc;
+     -moz-box-shadow: 10px 10px 5px 0px #cccccc;
+     box-shadow: 10px 10px 5px 0px #cccccc; }
+   
+   .fr-view img.fr-bordered, .fr-view .fr-img-caption.fr-bordered img {
+     border: solid 5px #CCC; }
