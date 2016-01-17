@@ -34,3 +34,25 @@
    
    .fr-view img.fr-bordered, .fr-view .fr-img-caption.fr-bordered img {
      border: solid 5px #CCC; }
+
+     .fr-view img.fr-bordered {
+          -webkit-box-sizing: content-box;
+          -moz-box-sizing: content-box;
+          box-sizing: content-box; }
+        
+        .fr-view .fr-img-caption.fr-bordered img {
+          -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          box-sizing: border-box; }
+        
+        .fr-view {
+          word-wrap: break-word; }
+          .fr-view span[style~="color:"] a {
+            color: inherit; }
+          .fr-view strong {
+            font-weight: 700; }
+          .fr-view table {
+            border: none;
+            border-collapse: collapse;
+            empty-cells: show;
+            max-width: 100%; }
