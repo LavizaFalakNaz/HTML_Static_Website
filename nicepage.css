@@ -195,3 +195,23 @@
                   .fr-view span.fr-img-caption.fr-dib.fr-fil {
                     margin-left: 0;
                     text-align: left; }
+                    .fr-view img.fr-dii.fr-fil {
+                         float: left;
+                         margin: 10px 15px 10px 0;
+                         max-width: calc(100% - 5px); }
+                       .fr-view img.fr-dii.fr-fir {
+                         float: right;
+                         margin: 10px 0 10px 15px;
+                         max-width: calc(100% - 5px); }
+                   .fr-view span.fr-img-caption {
+                     position: relative;
+                     max-width: 100%; }
+                     .fr-view span.fr-img-caption.fr-dib {
+                       margin: 5px auto;
+                       display: block;
+                       float: none;
+                       vertical-align: top; }
+                       .fr-view span.fr-img-caption.fr-dib.fr-fil {
+                         margin-left: 0;
+                         text-align: left; }
+                         
