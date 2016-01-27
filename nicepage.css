@@ -234,3 +234,22 @@
                                 box-sizing: content-box;
                                 max-width: 100%;
                                 border: none; }
+                                .fr-view .fr-video.fr-dvb {
+                                   display: block;
+                                   clear: both; }
+                                   .fr-view .fr-video.fr-dvb.fr-fvl {
+                                     text-align: left; }
+                                   .fr-view .fr-video.fr-dvb.fr-fvr {
+                                     text-align: right; }
+                                 .fr-view .fr-video.fr-dvi {
+                                   display: inline-block; }
+                                   .fr-view .fr-video.fr-dvi.fr-fvl {
+                                     float: left; }
+                                   .fr-view .fr-video.fr-dvi.fr-fvr {
+                                     float: right; }
+                               .fr-view a.fr-strong {
+                                 font-weight: 700; }
+                               .fr-view a.fr-green {
+                                 color: green; }
+                               .fr-view .fr-img-caption {
+                                 text-align: center; }
