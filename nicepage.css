@@ -279,4 +279,27 @@
                                      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
                                      width: 100%;
                                      text-align: center; }
+                                     .fr-view button.fr-rounded, .fr-view input.fr-rounded, .fr-view textarea.fr-rounded {
+                                        border-radius: 10px;
+                                        -moz-border-radius: 10px;
+                                        -webkit-border-radius: 10px;
+                                        -moz-background-clip: padding;
+                                        -webkit-background-clip: padding-box;
+                                        background-clip: padding-box; }
+                                      .fr-view button.fr-large, .fr-view input.fr-large, .fr-view textarea.fr-large {
+                                        font-size: 24px; }
+                                      .fr-view ul, .fr-view ol {
+                                        list-style-position: inside; }
+                                    
+                                    /**
+                                     * Image style.
+                                     */
+                                    a.fr-view.fr-strong {
+                                      font-weight: 700; }
+                                    a.fr-view.fr-green {
+                                      color: green; }
+                                    
+                                    /**
+                                     * Link style.
+                                     */
                                      
