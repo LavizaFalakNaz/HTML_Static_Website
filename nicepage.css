@@ -327,3 +327,37 @@
                                             float: left;
                                             margin: 5px 5px 5px 0;
                                             max-width: calc(100% - 5px); }
+                                            img.fr-view.fr-dii.fr-fir {
+                                             float: right;
+                                             margin: 5px 0 5px 5px;
+                                             max-width: calc(100% - 5px); }
+                                       
+                                       span.fr-img-caption.fr-view {
+                                         position: relative;
+                                         max-width: 100%; }
+                                         span.fr-img-caption.fr-view.fr-dib {
+                                           margin: 5px auto;
+                                           display: block;
+                                           float: none;
+                                           vertical-align: top; }
+                                           span.fr-img-caption.fr-view.fr-dib.fr-fil {
+                                             margin-left: 0;
+                                             text-align: left; }
+                                           span.fr-img-caption.fr-view.fr-dib.fr-fir {
+                                             margin-right: 0;
+                                             text-align: right; }
+                                         span.fr-img-caption.fr-view.fr-dii {
+                                           display: inline-block;
+                                           float: none;
+                                           vertical-align: bottom;
+                                           margin-left: 5px;
+                                           margin-right: 5px;
+                                           max-width: calc(100% - (2 * 5px)); }
+                                           span.fr-img-caption.fr-view.fr-dii.fr-fil {
+                                             float: left;
+                                             margin: 5px 5px 5px 0;
+                                             max-width: calc(100% - 5px); }
+                                           span.fr-img-caption.fr-view.fr-dii.fr-fir {
+                                             float: right;
+                                             margin: 5px 0 5px 5px;
+                                             max-width: calc(100% - 5px); }
