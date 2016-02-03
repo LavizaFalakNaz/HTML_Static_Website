@@ -434,3 +434,35 @@
     transform: translate3d(0, -4px, 0);
   }
 }
+.bounce {
+     -webkit-animation-name: bounce;
+     animation-name: bounce;
+     -webkit-transform-origin: center bottom;
+     transform-origin: center bottom;
+   }
+   
+   @-webkit-keyframes flash {
+     from,
+     50%,
+     to {
+       opacity: 1;
+     }
+   
+     25%,
+     75% {
+       opacity: 0;
+     }
+   }
+   
+   @keyframes flash {
+     from,
+     50%,
+     to {
+       opacity: 1;
+     }
+   
+     25%,
+     75% {
+       opacity: 0;
+     }
+   }
