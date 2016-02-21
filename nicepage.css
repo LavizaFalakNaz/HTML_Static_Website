@@ -1007,4 +1007,37 @@
             transform: skewX(-0.1953125deg) skewY(-0.1953125deg);
           }
         }        
-   
+        .jello {
+          -webkit-animation-name: jello;
+          animation-name: jello;
+          -webkit-transform-origin: center;
+          transform-origin: center;
+        }
+        
+        @-webkit-keyframes heartBeat {
+          0% {
+            -webkit-transform: scale(1);
+            transform: scale(1);
+          }
+        
+          14% {
+            -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+          }
+        
+          28% {
+            -webkit-transform: scale(1);
+            transform: scale(1);
+          }
+        
+          42% {
+            -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+          }
+        
+          70% {
+            -webkit-transform: scale(1);
+            transform: scale(1);
+          }
+        }
+        
