@@ -55,3 +55,20 @@
       margin-left: 0;
       margin-right: 0;
     }
+
+    .u-section-1 .u-text-3 {
+      margin-left: 105px;
+      margin-right: 105px;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 695px;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 8.75rem;
+      margin-left: 0;
+      margin-right: 0;
+    }
