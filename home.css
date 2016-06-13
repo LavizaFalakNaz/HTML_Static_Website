@@ -45,4 +45,13 @@
     .u-section-1 .u-sheet-1 {
       min-height: 715px;
     }
+    .u-section-1 .u-text-1 {
+      margin-left: 7px;
+      margin-right: 7px;
+    }
   
+    .u-section-1 .u-text-2 {
+      font-family: Roboto, sans-serif;
+      margin-left: 0;
+      margin-right: 0;
+    }
