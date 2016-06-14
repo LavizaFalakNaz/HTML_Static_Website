@@ -72,3 +72,23 @@
       margin-left: 0;
       margin-right: 0;
     }
+
+    .u-section-1 .u-text-3 {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 541px;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 6rem;
+      margin-top: 70px;
+    }
+  
+    .u-section-1 .u-text-2 {
+      font-size: 2.125rem;
+    }
