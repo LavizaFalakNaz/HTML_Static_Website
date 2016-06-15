@@ -152,3 +152,25 @@
       width: 491px;
       margin: -757px auto 60px calc(((100% - 1140px) / 2));
     }
+
+    .u-section-2 .u-repeater-1 {
+      grid-template-columns: repeat(2, calc(50% - 11px));
+      min-height: 528px;
+      grid-gap: 22px;
+    }
+    
+    .u-section-2 .u-list-item-1 {
+      background-image: none;
+      box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+    }
+    
+    .u-section-2 .u-container-layout-2 {
+      padding: 30px;
+    }
+    
+    .u-section-2 .u-icon-1 {
+      height: 64px;
+      width: 64px;
+      color: rgb(133, 142, 153) !important;
+      margin: 0 auto;
+    }
