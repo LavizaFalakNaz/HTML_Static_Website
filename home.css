@@ -240,3 +240,30 @@
     .u-section-2 .u-text-8 {
       margin: 20px 1px 0;
     }
+
+    .u-section-2 .u-list-item-4 {
+      box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+    }
+    
+    .u-section-2 .u-container-layout-5 {
+      padding: 30px;
+    }
+    
+    .u-section-2 .u-icon-4 {
+      height: 64px;
+      width: 64px;
+      color: rgb(133, 142, 153) !important;
+      margin: 0 auto;
+    }
+    
+    .u-section-2 .u-text-9 {
+      text-transform: uppercase;
+      font-size: 1.25rem;
+      letter-spacing: 3px;
+      font-weight: 400;
+      margin: 20px auto 0;
+    }
+    
+    .u-section-2 .u-text-10 {
+      margin: 20px 1px 0;
+    }
