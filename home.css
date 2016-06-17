@@ -267,3 +267,28 @@
     .u-section-2 .u-text-10 {
       margin: 20px 1px 0;
     }
+
+    @media (max-width: 1199px) {
+      .u-section-2 {
+        min-height: 955px;
+      }
+    
+      .u-section-2 .u-group-1 {
+        width: 563px;
+        min-height: 232px;
+        margin-top: 40px;
+        margin-left: calc(((100% - 940px) / 2));
+      }
+    
+      .u-section-2 .u-text-1 {
+        margin-right: 0;
+      }
+    
+      .u-section-2 .u-text-2 {
+        margin-left: 0;
+      }
+    
+      .u-section-2 .u-image-1 {
+        height: 547px;
+        margin-top: 91px;
+      }
