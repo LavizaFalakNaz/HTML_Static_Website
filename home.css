@@ -292,3 +292,22 @@
         height: 547px;
         margin-top: 91px;
       }
+
+      .u-section-2 .u-list-1 {
+        margin-top: -616px;
+        margin-left: calc(((100% - 940px) / 2));
+      }
+    }
+    
+    @media (max-width: 991px) {
+      .u-section-2 {
+        min-height: 925px;
+      }
+    
+      .u-section-2 .u-group-1 {
+        margin-left: calc(((100% - 720px) / 2));
+      }
+    
+      .u-section-2 .u-image-1 {
+        height: 522px;
+      }
