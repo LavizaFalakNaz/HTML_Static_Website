@@ -311,3 +311,22 @@
       .u-section-2 .u-image-1 {
         height: 522px;
       }
+
+      .u-section-2 .u-list-1 {
+        width: 442px;
+        margin-top: -591px;
+        margin-left: calc(((100% - 720px) / 2));
+      }
+    
+      .u-section-2 .u-repeater-1 {
+        min-height: 507px;
+      }
+    
+      .u-section-2 .u-container-layout-2 {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    
+      .u-section-2 .u-text-3 {
+        font-size: 1.125rem;
+      }
