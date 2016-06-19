@@ -367,3 +367,23 @@
       .u-section-2 .u-container-layout-1 {
         padding-right: 10px;
       }
+
+      .u-section-2 .u-list-1 {
+        margin-left: calc(((100% - 540px) / 2));
+      }
+    }
+    
+    @media (max-width: 575px) {
+      .u-section-2 {
+        min-height: 1406px;
+      }
+    
+      .u-section-2 .u-group-1 {
+        width: 340px;
+        margin-left: calc(((100% - 340px) / 2));
+      }
+    
+      .u-section-2 .u-text-1 {
+        font-size: 1.875rem;
+      }
+    
