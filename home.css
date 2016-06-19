@@ -347,3 +347,23 @@
       .u-section-2 .u-text-7 {
         font-size: 1.125rem;
       }
+
+      .u-section-2 .u-container-layout-5 {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    
+      .u-section-2 .u-text-9 {
+        font-size: 1.125rem;
+      }
+    }
+    
+    @media (max-width: 767px) {
+      .u-section-2 .u-group-1 {
+        width: 540px;
+        margin-left: calc(((100% - 540px) / 2));
+      }
+    
+      .u-section-2 .u-container-layout-1 {
+        padding-right: 10px;
+      }
