@@ -386,4 +386,26 @@
       .u-section-2 .u-text-1 {
         font-size: 1.875rem;
       }
+
+      .u-section-2 .u-image-1 {
+        height: 955px;
+        margin-top: 108px;
+      }
+    
+      .u-section-2 .u-list-1 {
+        width: 295px;
+        margin-top: -1041px;
+        margin-bottom: 75px;
+        margin-left: calc(((100% - 340px) / 2));
+      }
+    
+      .u-section-2 .u-repeater-1 {
+        grid-template-columns: 100%;
+        min-height: 906px;
+      }
+    
+      .u-section-2 .u-text-4 {
+        margin-left: 0;
+        margin-right: 0;
+      }
     
