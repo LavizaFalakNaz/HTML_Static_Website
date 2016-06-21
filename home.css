@@ -426,4 +426,21 @@
     }.u-section-3 .u-sheet-1 {
       min-height: 539px;
     }
+
+    .u-section-3 .u-text-1 {
+      width: 740px;
+      margin: 60px auto 0;
+    }
+    
+    .u-section-3 .u-text-2 {
+      width: 740px;
+      margin: 20px auto 0;
+    }
+    
+    .u-section-3 .u-list-1 {
+      grid-template-rows: auto;
+      height: auto;
+      width: 1140px;
+      margin: 20px auto 60px;
+    }
     
