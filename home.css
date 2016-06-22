@@ -490,3 +490,27 @@
       padding: 30px;
     }
     
+    .u-section-3 .u-icon-3 {
+      height: 64px;
+      width: 64px;
+      margin: 0 auto;
+    }
+    
+    .u-section-3 .u-text-7 {
+      margin: 30px 0 0;
+    }
+    
+    .u-section-3 .u-text-8 {
+      margin: 20px 0 0;
+    }
+    
+    @media (max-width: 1199px) {
+      .u-section-3 .u-sheet-1 {
+        min-height: 484px;
+      }
+    
+      .u-section-3 .u-list-1 {
+        width: 940px;
+      }
+    }
+    
