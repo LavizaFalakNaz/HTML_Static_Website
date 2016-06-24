@@ -577,3 +577,26 @@
       .u-section-3 .u-text-2 {
         width: 340px;
       }
+
+      .u-section-3 .u-list-1 {
+        width: 340px;
+      }
+    }.u-section-4 {
+      background-image: none;
+    }
+    
+    .u-section-4 .u-sheet-1 {
+      min-height: 659px;
+    }
+    
+    .u-section-4 .u-text-1 {
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      font-style: normal;
+      margin: 60px auto 0;
+    }
+    
+    .u-section-4 .u-text-2 {
+      font-weight: 700;
+      margin: 13px auto 0;
+    }
