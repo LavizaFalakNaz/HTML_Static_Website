@@ -600,3 +600,28 @@
       font-weight: 700;
       margin: 13px auto 0;
     }
+
+    .u-section-4 .u-text-3 {
+      font-size: 1.25rem;
+      width: 542px;
+      margin: 18px auto 0;
+    }
+    
+    .u-section-4 .u-layout-wrap-1 {
+      width: 976px;
+      margin: 33px auto 0;
+    }
+    
+    .u-section-4 .u-layout-cell-1 {
+      min-height: 206px;
+    }
+    
+    .u-section-4 .u-container-layout-1 {
+      padding: 30px;
+    }
+    
+    .u-section-4 .u-text-4 {
+      font-size: 1.25rem;
+      line-height: 2;
+      margin: 0;
+    }
