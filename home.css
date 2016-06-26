@@ -647,3 +647,27 @@
     .u-section-4 .u-container-layout-3 {
       padding: 30px;
     }
+
+    .u-section-4 .u-text-6 {
+      font-size: 1.25rem;
+      line-height: 2;
+      margin: 0;
+    }
+    
+    .u-section-4 .u-btn-1 {
+      text-shadow: 0 0 0 rgba(0,0,0,0);
+      border-style: solid;
+      font-size: 1.125rem;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin: 18px auto 60px;
+    }
+    
+    @media (max-width: 1199px) {
+      .u-section-4 .u-sheet-1 {
+        min-height: 651px;
+      }
+    
+      .u-section-4 .u-layout-wrap-1 {
+        width: 940px;
+      }
