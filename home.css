@@ -691,4 +691,21 @@
       .u-section-4 .u-layout-cell-3 {
         min-height: 198px;
       }
+      .u-section-4 .u-text-6 {
+        font-weight: normal;
+      }
+    
+      .u-section-4 .u-btn-1 {
+        letter-spacing: normal;
+      }
+    }
+    
+    @media (max-width: 991px) {
+      .u-section-4 .u-sheet-1 {
+        min-height: 553px;
+      }
+    
+      .u-section-4 .u-layout-wrap-1 {
+        width: 720px;
+      }
     
