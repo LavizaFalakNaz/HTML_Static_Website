@@ -671,3 +671,24 @@
       .u-section-4 .u-layout-wrap-1 {
         width: 940px;
       }
+
+      .u-section-4 .u-layout-cell-1 {
+        min-height: 198px;
+      }
+    
+      .u-section-4 .u-text-4 {
+        font-weight: normal;
+      }
+    
+      .u-section-4 .u-layout-cell-2 {
+        min-height: 198px;
+      }
+    
+      .u-section-4 .u-text-5 {
+        font-weight: normal;
+      }
+    
+      .u-section-4 .u-layout-cell-3 {
+        min-height: 198px;
+      }
+    
