@@ -709,3 +709,23 @@
         width: 720px;
       }
     
+      .u-section-4 .u-layout-cell-1 {
+        min-height: 100px;
+      }
+    
+      .u-section-4 .u-layout-cell-2 {
+        min-height: 100px;
+      }
+    
+      .u-section-4 .u-container-layout-2 {
+        padding-right: 0;
+      }
+    
+      .u-section-4 .u-layout-cell-3 {
+        min-height: 100px;
+      }
+    
+      .u-section-4 .u-container-layout-3 {
+        padding-right: 0;
+      }
+    }
