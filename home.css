@@ -759,3 +759,28 @@
       }
     }
     
+    @media (max-width: 575px) {
+      .u-section-4 .u-text-3 {
+        width: 340px;
+      }
+    
+      .u-section-4 .u-layout-wrap-1 {
+        width: 340px;
+      }
+    }.u-section-5 .u-sheet-1 {
+      min-height: 500px;
+    }
+    
+    .u-section-5 .u-layout-wrap-1 {
+      margin-top: 60px;
+      margin-bottom: 60px;
+      position: relative;
+    }
+    
+    .u-section-5 .u-layout-cell-1 {
+      min-height: 400px;
+    }
+    
+    .u-section-5 .u-container-layout-1 {
+      padding: 30px;
+    }
