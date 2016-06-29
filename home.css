@@ -809,3 +809,27 @@
     .u-section-5 .u-container-layout-2 {
       padding: 30px;
     }
+
+    .u-section-5 .u-image-1 {
+      width: 169px;
+      height: 99px;
+      margin: 0 auto;
+    }
+    
+    .u-section-5 .u-layout-cell-3 {
+      min-height: 200px;
+    }
+    
+    .u-section-5 .u-container-layout-3 {
+      padding: 30px;
+    }
+    
+    .u-section-5 .u-image-2 {
+      width: 169px;
+      height: 99px;
+      margin: 0 auto;
+    }
+    
+    .u-section-5 .u-layout-cell-4 {
+      min-height: 200px;
+    }
